@@ -11,4 +11,5 @@ Link: https://sharonn01.github.io/fewd/clgnb.html
 
 
 Link: https://sharonn01.github.io/fewd/imagegallery.html
-<img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/471173a7-1e33-4698-b72f-85be3a23ab58" />
+<img width="1918" height="1001" alt="image" src="https://github.com/user-attachments/assets/b7b9e595-7635-481e-a6c9-4e4fe43428d0" />
+
