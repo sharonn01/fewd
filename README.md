@@ -25,3 +25,6 @@ Link: https://sharonn01.github.io/fewd/hover.html
 
 Link: https://sharonn01.github.io/fewd/formvalidation.html
 <img width="930" height="907" alt="Screenshot 2026-03-27 105839" src="https://github.com/user-attachments/assets/15d58e03-970b-4735-bd7c-a1f4c13cf185" />
+
+Link: https://sharonn01.github.io/fewd/calculatorjs.html
+<img width="889" height="794" alt="image" src="https://github.com/user-attachments/assets/4d708b2d-9801-4904-9244-fe5d5654e76a" />
