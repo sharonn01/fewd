@@ -19,3 +19,6 @@ Link: https://sharonn01.github.io/fewd/LOGIN.html
 
 Link: https://sharonn01.github.io/fewd/nav.html
 <img width="1918" height="1017" alt="Screenshot 2026-03-02 090543" src="https://github.com/user-attachments/assets/1dddca4f-1dfa-449a-98fb-639d8900e9d9" />
+
+Link: https://sharonn01.github.io/fewd/hover.html
+<img width="1026" height="582" alt="Screenshot 2026-03-27 091955" src="https://github.com/user-attachments/assets/1a5c0f2a-b9a7-460b-8c8d-dc35ee98756b" />
