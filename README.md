@@ -28,3 +28,10 @@ Link: https://sharonn01.github.io/fewd/formvalidation.html
 
 Link: https://sharonn01.github.io/fewd/calculatorjs.html
 <img width="889" height="794" alt="image" src="https://github.com/user-attachments/assets/4d708b2d-9801-4904-9244-fe5d5654e76a" />
+
+Link: https://sharonn01.github.io/fewd/digclock.html
+<img width="765" height="567" alt="Screenshot 2026-04-06 105705" src="https://github.com/user-attachments/assets/a25f379b-058d-4309-a5dc-c3d7d63c87ae" />
+
+Link: https://sharonn01.github.io/fewd/todolist.html
+<img width="1163" height="911" alt="Screenshot 2026-04-06 105644" src="https://github.com/user-attachments/assets/95c83397-7cb3-4315-af86-f5f8b733193d" />
+
