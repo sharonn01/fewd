@@ -35,3 +35,17 @@ Link: https://sharonn01.github.io/fewd/digclock.html
 Link: https://sharonn01.github.io/fewd/todolist.html
 <img width="1163" height="911" alt="Screenshot 2026-04-06 105644" src="https://github.com/user-attachments/assets/95c83397-7cb3-4315-af86-f5f8b733193d" />
 
+Link: https://sharonn01.github.io/fewd/eventhandling.html
+<img width="1918" height="1027" alt="Screenshot 2026-05-26 095847" src="https://github.com/user-attachments/assets/8110033a-800c-4d09-84b4-32b6c2dbd4a4" />
+
+
+Link: https://sharonn01.github.io/fewd/Imageslider.html
+<img width="1919" height="1008" alt="Screenshot 2026-05-26 103038" src="https://github.com/user-attachments/assets/58fe8de6-b32e-40be-9166-d6e97a022074" />
+
+
+Link: https://sharonn01.github.io/fewd/responsivewebpage.html
+<img width="1919" height="1037" alt="Screenshot 2026-05-26 104715" src="https://github.com/user-attachments/assets/4abfb2ea-621b-4f8b-9e47-dbcd0f166d60" />
+
+
+Link: https://sharonn01.github.io/fewd/bootstrap.html
+<img width="1919" height="1029" alt="Screenshot 2026-05-26 115957" src="https://github.com/user-attachments/assets/472d43f7-c0db-4cd8-bb65-cc0a4732dc99" />
