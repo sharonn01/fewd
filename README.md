@@ -49,3 +49,6 @@ Link: https://sharonn01.github.io/fewd/responsivewebpage.html
 
 Link: https://sharonn01.github.io/fewd/bootstrap.html
 <img width="1919" height="1029" alt="Screenshot 2026-05-26 115957" src="https://github.com/user-attachments/assets/472d43f7-c0db-4cd8-bb65-cc0a4732dc99" />
+
+Link: https://sharonn01.github.io/fewd/Fontawesome.html
+<img width="1919" height="1027" alt="Screenshot 2026-06-01 093044" src="https://github.com/user-attachments/assets/843bb8f9-e1c5-4e9a-bc92-14234f0396cd" />
